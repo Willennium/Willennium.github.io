@@ -1,6 +1,7 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(Basemod.png);
+    background: url(Willennium.github.io/Final/basemod.png
+);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -17,7 +18,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(Stickmod.png);
+    background: url(Willennium.github.io/Final/stickmod.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
